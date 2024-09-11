@@ -4,7 +4,7 @@
     "category": "Sales and Marketing",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/ActiveCampaign+Connector",
     "description": "The ActiveCampaign connector allows you to access the ActiveCampaign REST API through the WSO2 ESB. ActiveCampaign is an e-mail marketing software which could be used for initiating and sending campaigns to potential subscribers.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
